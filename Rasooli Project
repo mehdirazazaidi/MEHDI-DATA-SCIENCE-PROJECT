@@ -1,0 +1,11 @@
+#x = 20
+#y = 30
+#print("Varible x")
+#x=input()
+#print("Variable y")
+#y=input()
+#print("Rasooli", 10 * str(int(x) + int(y)))
+print("Rasooli Project")
+print("MEHDI RASOOLI")
+here = input()
+print("Overll",(int(here)+ 10)
